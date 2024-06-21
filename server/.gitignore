@@ -1,0 +1,26 @@
+# Build output
+/dist
+
+# Dependency folders
+node_modules/
+
+# Editor and IDE specific files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# System generated files
+Thumbs.db
+.DS_Store
+
+# Environment specific files
+.env
+
+# Test coverage reports
+coverage/
+
+# Yarn files
+yarn.lock
